@@ -1,5 +1,9 @@
 ﻿using System;
-class Questao01 {
+
+// Nessa questão, fiz uma calculadora para área de quadrado
+
+class Questao01
+{
     //método para rodar quando clicar no play
     static void Main()
     {
@@ -17,7 +21,7 @@ class Questao01 {
             Console.WriteLine("O que resulta no seguinte:\n");
             Console.WriteLine(a + " * " + a + " = " + area);
         }
-        if (answer == "N" || answer =="n")
+        if (answer == "N" || answer == "n")
         {
             Console.Write("Então tchau!\n");
         }
