@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Question_01_Igor_Rodrigo_Costa/1.0.0": {
+        "runtime": {
+          "Question_01_Igor_Rodrigo_Costa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question_01_Igor_Rodrigo_Costa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
