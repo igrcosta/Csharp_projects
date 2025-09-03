@@ -2,7 +2,7 @@
 
 // Nessa questão, fiz uma calculadora para área de triângulos
 
-class Questao01
+class Questao02
 {
     //método para rodar quando clicar no play
     static void Main()
