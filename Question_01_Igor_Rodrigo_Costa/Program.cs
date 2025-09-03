@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Nessa questão, fiz uma calculadora para área de quadrado
+// Nessa questão, fiz uma calculadora para área de quadrados
 
 class Questao01
 {
