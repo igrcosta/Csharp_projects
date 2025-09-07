@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\bin\Debug\net9.0\Question_07.exe
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\bin\Debug\net9.0\Question_07.deps.json
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\bin\Debug\net9.0\Question_07.runtimeconfig.json
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\bin\Debug\net9.0\Question_07.dll
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\bin\Debug\net9.0\Question_07.pdb
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.AssemblyInfo.cs
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.sourcelink.json
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.dll
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\refint\Question_07.dll
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.pdb
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\Question_07.genruntimeconfig.cache
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_07\obj\Debug\net9.0\ref\Question_07.dll

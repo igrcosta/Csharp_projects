@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\bin\Debug\net9.0\Question_05.exe
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\bin\Debug\net9.0\Question_05.deps.json
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\bin\Debug\net9.0\Question_05.runtimeconfig.json
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\bin\Debug\net9.0\Question_05.dll
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\bin\Debug\net9.0\Question_05.pdb
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.AssemblyInfo.cs
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.sourcelink.json
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.dll
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\refint\Question_05.dll
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.pdb
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\Question_05.genruntimeconfig.cache
+C:\Users\Igor\Desktop\exercícios\GODOT\Csharp_projects\Question_05\obj\Debug\net9.0\ref\Question_05.dll
