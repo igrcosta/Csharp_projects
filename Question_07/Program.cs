@@ -10,16 +10,13 @@ class Questao07
     static void Main()
     {
         int a1, a2, n, an, Sn, r;
-
-        Console.Write("Vamos calcular a soma de uma PA:\n");
-
-        Console.Write("Digite o primeiro termo (a1):\n");
+        Console.Write("Digite o valor do 1 termo:\n");
         a1 = int.Parse(Console.ReadLine());
 
-        Console.Write("\nAgora digite o segundo termo (a2):\n");
+        Console.Write("Digite o valor do 2 termo:\n");
         a2 = int.Parse(Console.ReadLine());
 
-        Console.Write("\nDigite o numero de termos (n):\n");
+        Console.Write("Digite o numero de termos:\n");
         n = int.Parse(Console.ReadLine());
 
         // Calcula a razao
@@ -30,10 +27,6 @@ class Questao07
 
         // Calcula a soma Sn = n * (a1 + an) / 2
         Sn = n * (a1 + an) / 2;
-
-        Console.Write($"\nTemos a1 = {a1}, a2 = {a2}, razao r = {r}, n = {n}.\n");
-        Console.Write($"O ultimo termo (an) eh: {an}\n");
-        Console.Write($"\nAplicando a formula da soma: Sn = n * (a1 + an) / 2\n");
-        Console.Write($"\nResultado final: A soma dos {n} primeiros termos eh {Sn}!");
+        Console.Write($"Soma = {Sn}");
     }
 }

@@ -12,3 +12,4 @@ C:\Users\icvid\Documents\GitHub\Csharp_projects\Question_02\obj\Debug\net9.0\ref
 C:\Users\icvid\Documents\GitHub\Csharp_projects\Question_02\obj\Debug\net9.0\Question_02.pdb
 C:\Users\icvid\Documents\GitHub\Csharp_projects\Question_02\obj\Debug\net9.0\Question_02.genruntimeconfig.cache
 C:\Users\icvid\Documents\GitHub\Csharp_projects\Question_02\obj\Debug\net9.0\ref\Question_02.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Question_02\obj\Debug\net9.0\Question_02.sourcelink.json

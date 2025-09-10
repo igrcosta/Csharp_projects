@@ -13,6 +13,6 @@ class Questao01
             // Parse serve para converter formatos, no caso, temos uma string (texto do usuário) que vai virar int, por estar escrito int.Parse
 
             area = a * a;
-            Console.WriteLine("Area: = " + area);
+            Console.WriteLine("\nArea = " + area);
     }
 }
