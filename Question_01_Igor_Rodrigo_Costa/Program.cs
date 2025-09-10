@@ -7,14 +7,12 @@ class Questao01
     //método para rodar quando clicar no play
     static void Main()
     {
-        int a, area;
-            Console.Write("Perfeito! me diga o primeiro lado desse quadrado por favor!\n");
-            a = int.Parse(Console.ReadLine());
+        double a, area;
+            Console.Write("Digite o valor do lado: ");
+            a = double.Parse(Console.ReadLine());
             // Parse serve para converter formatos, no caso, temos uma string (texto do usuário) que vai virar int, por estar escrito int.Parse
 
-            Console.Write("Agora que sei que " + answer + " é o valor do lado, basta fazer ele ao quadrado!\n");
             area = a * a;
-            Console.WriteLine("O que resulta no seguinte:\n");
-            Console.WriteLine(a + " * " + a + " = " + area);
+            Console.WriteLine("Area: = " + area);
     }
 }
