@@ -7,22 +7,18 @@ class Questao04
     //método para rodar quando clicar no play
     static void Main()
     {
-        int x, y, z, result;
-        Console.Write("Preciso de ajuda! Vamo calcular uma soma de tres numeros:\n");
-        Console.Write("Me fala o primeiro dessa soma:\n");
+        int x, y, result;
+        Console.Write("Digite o 1 valor:\n");
 
         x = int.Parse(Console.ReadLine());
         // Parse serve para converter formatos, no caso, temos uma string 
         //(texto do usuário) que vai virar int, por estar escrito int.Parse
 
-        Console.Write("Perfeito! vc escolheu " + x + "\nAgora o segundo:\n");
+        Console.Write("\nDigite o 2 valor:\n");
         y = int.Parse(Console.ReadLine());
-
-        Console.Write("\nCerto, temos\n" + x + " e " + y + "\nVamo pro último:\n");
-        z = int.Parse(Console.ReadLine());
 
         result = x + y + z;
 
-        Console.Write("\nAgora, vamos somar!\nE deu o resultado...\n" + result);
+        Console.Write("\n Soma = " + result);
     }
 }
