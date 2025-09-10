@@ -17,7 +17,7 @@ class Questao04
         Console.Write("\nDigite o 2 valor:\n");
         y = int.Parse(Console.ReadLine());
 
-        result = x + y + z;
+        result = x + y;
 
         Console.Write("\n Soma = " + result);
     }
