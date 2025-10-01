@@ -1,0 +1,15 @@
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\bin\Debug\net9.0\Exercicio01_IgorCosta.exe
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\bin\Debug\net9.0\Exercicio01_IgorCosta.deps.json
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\bin\Debug\net9.0\Exercicio01_IgorCosta.runtimeconfig.json
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\bin\Debug\net9.0\Exercicio01_IgorCosta.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\bin\Debug\net9.0\Exercicio01_IgorCosta.pdb
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.AssemblyInfoInputs.cache
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.AssemblyInfo.cs
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.csproj.CoreCompileInputs.cache
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.sourcelink.json
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\refint\Exercicio01_IgorCosta.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.pdb
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\Exercicio01_IgorCosta.genruntimeconfig.cache
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl2\Exercicio01_IgorCosta\obj\Debug\net9.0\ref\Exercicio01_IgorCosta.dll
