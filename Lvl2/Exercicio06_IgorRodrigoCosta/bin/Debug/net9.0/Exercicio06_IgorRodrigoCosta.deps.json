@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Exercicio06_IgorRodrigoCosta/1.0.0": {
+        "runtime": {
+          "Exercicio06_IgorRodrigoCosta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio06_IgorRodrigoCosta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

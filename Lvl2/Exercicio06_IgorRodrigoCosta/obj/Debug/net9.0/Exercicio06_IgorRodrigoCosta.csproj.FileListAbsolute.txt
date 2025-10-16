@@ -1,0 +1,15 @@
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\bin\Debug\net9.0\Exercicio06_IgorRodrigoCosta.exe
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\bin\Debug\net9.0\Exercicio06_IgorRodrigoCosta.deps.json
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\bin\Debug\net9.0\Exercicio06_IgorRodrigoCosta.runtimeconfig.json
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\bin\Debug\net9.0\Exercicio06_IgorRodrigoCosta.dll
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\bin\Debug\net9.0\Exercicio06_IgorRodrigoCosta.pdb
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.AssemblyInfo.cs
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.sourcelink.json
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.dll
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\refint\Exercicio06_IgorRodrigoCosta.dll
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.pdb
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\Exercicio06_IgorRodrigoCosta.genruntimeconfig.cache
+C:\Users\Igor\Documents\GitHub\Csharp_projects\Lvl2\Exercicio06_IgorRodrigoCosta\obj\Debug\net9.0\ref\Exercicio06_IgorRodrigoCosta.dll
