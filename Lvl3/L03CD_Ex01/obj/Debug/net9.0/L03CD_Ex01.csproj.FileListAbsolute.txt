@@ -1,0 +1,15 @@
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.AssemblyInfoInputs.cache
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.AssemblyInfo.cs
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.sourcelink.json
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\bin\Debug\net9.0\L03CD_Ex01.exe
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\bin\Debug\net9.0\L03CD_Ex01.deps.json
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\bin\Debug\net9.0\L03CD_Ex01.runtimeconfig.json
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\bin\Debug\net9.0\L03CD_Ex01.dll
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\bin\Debug\net9.0\L03CD_Ex01.pdb
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.dll
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\refint\L03CD_Ex01.dll
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.pdb
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\L03CD_Ex01.genruntimeconfig.cache
+C:\Users\1397805\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex01\obj\Debug\net9.0\ref\L03CD_Ex01.dll
