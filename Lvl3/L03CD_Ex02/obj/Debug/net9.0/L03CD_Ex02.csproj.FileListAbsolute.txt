@@ -1,0 +1,15 @@
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\bin\Debug\net9.0\L03CD_Ex02.exe
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\bin\Debug\net9.0\L03CD_Ex02.deps.json
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\bin\Debug\net9.0\L03CD_Ex02.runtimeconfig.json
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\bin\Debug\net9.0\L03CD_Ex02.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\bin\Debug\net9.0\L03CD_Ex02.pdb
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.AssemblyInfoInputs.cache
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.AssemblyInfo.cs
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.sourcelink.json
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\refint\L03CD_Ex02.dll
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.pdb
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\L03CD_Ex02.genruntimeconfig.cache
+C:\Users\icvid\Documents\GitHub\Csharp_projects\Lvl3\L03CD_Ex02\obj\Debug\net9.0\ref\L03CD_Ex02.dll

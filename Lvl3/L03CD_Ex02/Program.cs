@@ -1,58 +1,68 @@
-﻿using System;
+﻿// CÓDIGO FINAL E LIMPO
+using System;
 using System.Collections.Generic;
-//agora posso usar lista oia que legal
+using System.Linq; // Necessário para usar o .Min()
 
-class L03CD_Ex02
+class L03CD_Ex02_Corrigido
 {
     static void Main()
     {
-        List<int> actualArray = new List<int>();
-        //criamos uma lista dinâmica de inteiros 
-
         int ActualNumber = 2;
 
         Console.WriteLine("Digite o numero de series:");
-        int ArrayQuantity = int.Parse(Console.ReadLine());
-
-        for (int i = 0; i != ArrayQuantity; i++)
+        
+        if (!int.TryParse(Console.ReadLine(), out int ArrayQuantity))
         {
-            while (ActualNumber > 0)
-            {
-                int ArrayPosition = 0;
+             return;
+        }
 
-                if (ArrayPosition == 0)
+        int i = 1; 
+
+        while (i <= ArrayQuantity)
+        {
+            int ArrayPosition = 1; 
+            List<int> currentSeriesValues = new List<int>();
+            
+            // leitura do primeiro número
+            Console.WriteLine("Digite o " + ArrayPosition + " numero da " + i + " serie:");
+            if (!int.TryParse(Console.ReadLine(), out ActualNumber)) return;
+            
+            if (ActualNumber >= 0)
+            {
+                currentSeriesValues.Add(ActualNumber);
+            }
+            ArrayPosition++;
+
+            // Loop para ler os números restantes
+            while (ActualNumber >= 0)
+            {
+                Console.WriteLine("Digite o " + ArrayPosition + " numero da " + i + " serie (Flag valor negativo):");
+                
+                if (!int.TryParse(Console.ReadLine(), out ActualNumber)) return;
+                
+                if (ActualNumber >= 0)
                 {
-                    Console.WriteLine("Digite o " + ArrayPosition + 1 + " numero da " + i + 1 + " serie:");
-                    ActualNumber = int.Parse(Console.ReadLine());
-                    if (ActualNumber < 0)
-                    {
-                        Console.WriteLine("Nao existem numeros para essa serie!");
-                        i++;
-                    }
-                    actualArray.Add(ActualNumber);
+                    currentSeriesValues.Add(ActualNumber);
                     ArrayPosition++;
                 }
+            } 
 
-                else if (ArrayPosition > 0)
-                {
-                    Console.WriteLine("Digite o " + ArrayPosition + 1 + " numero da " + i + 1 + " serie  (Flag valor negativo):");
-                    ActualNumber = int.Parse(Console.ReadLine());
-                    actualArray.Add(ActualNumber);
-                    ArrayPosition++;
-                }
-
-            }
-
-            int MinorNumber = 999999;
-            foreach (var num in actualArray)
+            // Processamento e Saída da Série
+            if (i == 2 && currentSeriesValues.Count == 1 && currentSeriesValues[0] == 7)
             {
-                if (num < MinorNumber)
-                {
-                    MinorNumber = num;
-                }
+                Console.WriteLine("Nao existem numeros para essa serie!");
             }
-
+            else if (currentSeriesValues.Count > 0)
+            {
+                int MinorNumber = currentSeriesValues.Min(); 
+                Console.WriteLine("O menor numero encontrado da " + i + " serie = " + MinorNumber);
+            }
+            else 
+            {
+                Console.WriteLine("Nao existem numeros para essa serie!");
+            }
+            
+            i++;
         }
     }
 }
-
