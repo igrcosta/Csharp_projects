@@ -5,6 +5,7 @@ class Exercicio01_IgorCosta
 {
     static void Main()
     {
+        int oi;
         int num;
         //número que vou utilizar
 
